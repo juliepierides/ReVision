@@ -1,12 +1,12 @@
 # ReVision
 A 2D platformer game.
 
+![alt text](https://github.com/juliepierides/ReVision/blob/master/revision_image.png)
+
 ## Summary
 The game that we’ve created is called “Re-Vision”. It is a narrative game that begins with the story of an honorable king who sacrificed himself for the people in his kingdom.
 
 After reading this, the player begins as a knight character in a 2D platformer game and there is a text box on the bottom of the screen that shows someone talking to him. 
-
-![alt text](https://raw.githubusercontent.com/juliepierides/ReVision/book_image.png)
 ![alt text](https://github.com/juliepierides/ReVision/blob/master/book_image.png)
 
 This is the king from the story in the beginning. The king guides the knight throughout the game by telling him how to play and what he must do. 
