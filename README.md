@@ -13,6 +13,9 @@ This is the king from the story in the beginning. The king guides the knight thr
 
 We created all graphical assets in the game from scratch, except for the pages and the glasses.
 
+## Video
+[![Click to watch](https://drive.google.com/open?id=1mb3IjaVdcyD48aDFLnWzxRlr3M9eyHIt)](https://drive.google.com/open?id=1N-PT56zL6xbHkulBCaLVZk-hNL6PJFey)
+
 ## Goal
 The king’s goal is to get the knight to free him from the game, but throughout the game, the knight uncovers the real version of the story and realizes that the king is actually evil. In order to keep the king imprisoned in the game, he must first find the skeleton of the person who failed the same mission. At the place of the skeleton, there is also a note and a pair of glasses. These glasses allow the player to see hidden platforms and also reveal which platforms are fake. The game is called Re-Vision because the evil king revised the original story and the knight can wear glasses to reveal the real platforms of each level. 
 ## Multiple Endings	
@@ -20,8 +23,7 @@ There are two different endings to the game. If the player does not realize that
 ## Inspiration
 Many of the games that we were inspired by had twists and simple mechanics. We were inspired by Braid’s mind-blowing plot twist in which the game causes the player to think that he is saving a girl in need, but instead it is you she is running from. Other games with plot twists like these that we took inspiration from are Pony Island, Doki Doki Literature Club, and Bioshock. We also took graphic inspiration from Undertale and we decided to have a simple mechanic because of Super Meat Boy.
 
-## Video
-[![Watch the video](https://drive.google.com/open?id=1mb3IjaVdcyD48aDFLnWzxRlr3M9eyHIt)](https://drive.google.com/open?id=1N-PT56zL6xbHkulBCaLVZk-hNL6PJFey)
+
 
 ## How to Play
 - Left arrow = left
