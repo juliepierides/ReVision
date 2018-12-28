@@ -1,7 +1,9 @@
 # ReVision
 A 2D platformer game.
 
-![alt text](https://github.com/juliepierides/ReVision/blob/master/revision_image.png)
+## Video
+Click to watch
+[![Click to watch](https://github.com/juliepierides/ReVision/blob/master/revision_image.png)](https://drive.google.com/open?id=1N-PT56zL6xbHkulBCaLVZk-hNL6PJFey)
 
 ## Summary
 The game that we’ve created is called “Re-Vision”. It is a narrative game that begins with the story of an honorable king who sacrificed himself for the people in his kingdom.
@@ -13,8 +15,7 @@ This is the king from the story in the beginning. The king guides the knight thr
 
 We created all graphical assets in the game from scratch, except for the pages and the glasses.
 
-## Video
-[![Click to watch](https://drive.google.com/open?id=1mb3IjaVdcyD48aDFLnWzxRlr3M9eyHIt)](https://drive.google.com/open?id=1N-PT56zL6xbHkulBCaLVZk-hNL6PJFey)
+
 ## How to Play
 - Left arrow = left
 - Right arrow = right
