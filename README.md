@@ -15,7 +15,12 @@ We created all graphical assets in the game from scratch, except for the pages a
 
 ## Video
 [![Click to watch](https://drive.google.com/open?id=1mb3IjaVdcyD48aDFLnWzxRlr3M9eyHIt)](https://drive.google.com/open?id=1N-PT56zL6xbHkulBCaLVZk-hNL6PJFey)
-
+## How to Play
+- Left arrow = left
+- Right arrow = right
+- Space = jump
+- Control = glasses function (only works when you are not moving)
+- K key = open big door with key
 ## Goal
 The king’s goal is to get the knight to free him from the game, but throughout the game, the knight uncovers the real version of the story and realizes that the king is actually evil. In order to keep the king imprisoned in the game, he must first find the skeleton of the person who failed the same mission. At the place of the skeleton, there is also a note and a pair of glasses. These glasses allow the player to see hidden platforms and also reveal which platforms are fake. The game is called Re-Vision because the evil king revised the original story and the knight can wear glasses to reveal the real platforms of each level. 
 ## Multiple Endings	
@@ -25,12 +30,7 @@ Many of the games that we were inspired by had twists and simple mechanics. We w
 
 
 
-## How to Play
-- Left arrow = left
-- Right arrow = right
-- Space = jump
-- Control = glasses function (only works when you are not moving)
-- K key = open big door with key
+
 
 ## Formal System
 - Environment:
